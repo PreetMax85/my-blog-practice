@@ -1,3 +1,11 @@
+.subscribe-button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+.subscribe-button:hover {
+    background-color: darkblue;
+}
 body.dark-mode {
     background-color: black;
     color: white;
