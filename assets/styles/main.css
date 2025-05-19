@@ -6,3 +6,7 @@
 .subscribe-button:hover {
     background-color: darkblue;
 }
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
