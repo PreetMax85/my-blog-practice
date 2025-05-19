@@ -10,7 +10,9 @@ body.dark-mode {
     background-color: black;
     color: white;
 }
-
 header {
     margin: 20px;
+}
+footer {
+    padding: 20px;
 }
